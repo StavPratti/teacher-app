@@ -1,0 +1,27 @@
+INSERT INTO educational_units (id, name,region_id) VALUES
+            (1,'Coding Factory ΘΕΣΣΑΛΟΝΙΚΗΣ',9),
+            (2,'Coding Factory  ΘΕΣΣΑΛΟΝΙΚΗΣ',9),
+            (3,'Coding Factory ΚΕΔΙΒΙΜ ΘΕΣΣΑΛΟΝΙΚΗΣ',9),
+            (4,'Coding Factory ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ',2),
+            (5,'Coding Factory ΑΓΡΙΝΙΟΥ',4),
+            (6,'Coding Factory ΑΙΓΑΛΕΩ',2),
+            (7,'Coding Factory ΑΛΕΞΑΝΔΡΟΥΠΟΛΗΣ',1),
+            (8,'Coding Factory ΑΡΓΟΛΙΔΑΣ',12),
+            (9,'Coding Factory ΑΡΤΑΣ',6),
+            (10,'Coding Factory ΒΕΡΟΙΑΣ',9),
+            (11,'Coding Factory ΒΟΛΟΥ',7),
+            (12,'Coding Factory ΓΑΛΑΤΣΙΟΥ',2),
+            (13,'Coding Factory ΔΡΑΜΑΣ',1),
+            (14,'Coding Factory ΕΛΕΥΣΙΝΑΣ',2),
+            (15,'Coding Factory ΗΡΑΚΛΕΙΟΥ ΑΤΤΙΚΗΣ',2),
+            (16,'Coding Factory ΗΡΑΚΛΕΙΟΥ ΚΡΗΤΗΣ',10),
+            (17,'Coding Factory ΙΩΑΝΝΙΝΩΝ',6),
+            (18,'Coding Factory ΚΑΒΑΛΑΣ',1),
+            (19,'Coding Factory ΚΑΛΑΜΑΤΑΣ',2),
+            (20,'Coding Factory ΚΑΡΔΙΤΣΑΣ',7),
+            (21,'Coding Factory ΚΑΣΤΟΡΙΑΣ',5),
+            (22,'Coding Factory ΚΑΤΕΡΙΝΗΣ',9),
+            (23,'Coding Factory ΚΕΡΚΥΡΑΣ',8),
+            (24,'Coding Factory ΚΙΛΚΙΣ',9);
+
+ALTER TABLE educational_units AUTO_INCREMENT = 25;
